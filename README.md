@@ -28,6 +28,9 @@ Para corregir esta vulnerabilidad, se crea un blacklist de dichos caracteres esp
 Luego de la corrección, verificamos que no permite el listado luego de la dirección IP:
 
 
+![image](https://user-images.githubusercontent.com/46895869/51512278-3ff77e00-1dd3-11e9-9b28-84e605d35dff.png)
+
+
 
 
 
