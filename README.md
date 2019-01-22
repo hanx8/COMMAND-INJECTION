@@ -31,6 +31,13 @@ Luego de la corrección, verificamos que no permite el listado luego de la direc
 ![image](https://user-images.githubusercontent.com/46895869/51512278-3ff77e00-1dd3-11e9-9b28-84e605d35dff.png)
 
 
+![image](https://user-images.githubusercontent.com/46895869/51512307-5b628900-1dd3-11e9-873d-bb3c65c09cb6.png)
+
+
+A su vez, si permite el ingreso de la dirección IP, dando como respuesta el ping:
+
+
+
 
 
 
