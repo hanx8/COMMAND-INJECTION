@@ -25,8 +25,8 @@ Para corregir esta vulnerabilidad, se crea un blacklist de dichos caracteres esp
 ![image](https://user-images.githubusercontent.com/46895869/51512253-1c343800-1dd3-11e9-9b92-79370e5d6978.png)
 
 
-Realizar la misma prueba que se realizó al inicio con el código corregido(SQL-INYECTION-FINAL.txt).
-Luego de la corrección, verificamos que no permite el listado luego de la dirección IP:
+Realizar la misma prueba que se realizó al inicio con el código corregido(COMMAND-INJECTION-FINAL.txt).
+Luego de la corrección, verificamos que no permite el listado luego de escribir la dirección IP:
 
 
 ![image](https://user-images.githubusercontent.com/46895869/51512278-3ff77e00-1dd3-11e9-9b28-84e605d35dff.png)
