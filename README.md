@@ -8,3 +8,11 @@ Se ingresa la dirección IP, luego del submit habrá una respuesta como se muest
 
 
 El código permite realizar un listado al directorio (dir), luego de escribir el ping:
+
+
+![image](https://user-images.githubusercontent.com/46895869/51512188-c8295380-1dd2-11e9-8ecc-4fc04e387094.png)
+
+
+También permite hacer un listado de cierta ruta de un directorio:
+
+
