@@ -22,3 +22,12 @@ También permite hacer un listado de cierta ruta de un directorio:
 Para corregir esta vulnerabilidad, se crea un blacklist de dichos caracteres especiales para ser denegados:
 
 
+![image](https://user-images.githubusercontent.com/46895869/51512253-1c343800-1dd3-11e9-9b92-79370e5d6978.png)
+
+
+Luego de la corrección, verificamos que no permite el listado luego de la dirección IP:
+
+
+
+
+
