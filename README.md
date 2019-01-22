@@ -26,6 +26,7 @@ Para corregir esta vulnerabilidad, se crea un blacklist de dichos caracteres esp
 
 
 Realizar la misma prueba que se realizó al inicio con el código corregido(COMMAND-INJECTION-FINAL.txt).
+
 Luego de la corrección, verificamos que no permite el listado luego de escribir la dirección IP:
 
 
