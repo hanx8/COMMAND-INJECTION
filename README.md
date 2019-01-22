@@ -16,3 +16,9 @@ El código permite realizar un listado al directorio (dir), luego de escribir el
 También permite hacer un listado de cierta ruta de un directorio:
 
 
+![image](https://user-images.githubusercontent.com/46895869/51512223-f5760180-1dd2-11e9-9932-4b7c179a8dce.png)
+
+
+Para corregir esta vulnerabilidad, se crea un blacklist de dichos caracteres especiales para ser denegados:
+
+
